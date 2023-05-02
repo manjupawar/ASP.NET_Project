@@ -1,0 +1,4 @@
+E:\__Project__\day3\sample2\sample2\bin\sample2.dll
+E:\__Project__\day3\sample2\sample2\bin\sample2.pdb
+E:\__Project__\day3\sample2\sample2\obj\Debug\sample2.dll
+E:\__Project__\day3\sample2\sample2\obj\Debug\sample2.pdb
